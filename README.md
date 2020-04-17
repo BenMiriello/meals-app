@@ -3,4 +3,4 @@
 ### Installation
 
 run `npm install`
-then `expo install expo-font`
+then `npm install --save expo-font` or `expo install expo-font`
